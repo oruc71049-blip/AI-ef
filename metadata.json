@@ -1,0 +1,6 @@
+{
+  "name": "AI Academy",
+  "description": "Süni İntellekt Akademiyası - Hərtərəfli AI dərsləri, Sokratik AI Mentor çatbot, Valideyn Nəzarəti, Müəllim paneli, Gamifikasiya və Aylıq Hesabatlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
